@@ -5,5 +5,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/93dbe215b3dc462495511975bfc7fafb)](https://www.codacy.com/gh/CyclopsBot/bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CyclopsBot/bot&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://img.shields.io/codacy/grade/93dbe215b3dc462495511975bfc7fafb?style=for-the-badge)](https://www.codacy.com/gh/CyclopsBot/bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CyclopsBot/bot&amp;utm_campaign=Badge_Grade)
 </div>
