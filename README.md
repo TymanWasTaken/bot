@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/VKUTJdr.png"></p>
+<p align="center"><img src="https://i.imgur.com/FiLr3O3.png"></p>
 <h1 align="center">Cyclops: A general purpose discord bots to hopefully fufill all your needs</h1>
 <div align="center">
 
@@ -10,12 +10,35 @@
 
 <h1 align="center"style="font-weight: bold">Getting started</h1>
 
-<h2>Initlializing your project</h1>
-coming soon
+<h2 style="font-weight: bold">Prerequisites</h2>
+
+- [Yarn](https://classic.yarnpkg.com/en/)
+- [Node](https://nodejs.org/en/)
+- [MongDB](https://docs.mongodb.com/manual/administration/install-community/)
+- [Discord-Token](https://discord.com/developers/docs/intro)
 <br></br>
-<h2>Prerequisites</h1>
-this is not spelled wrong and is coming soon
+
+<h2 style="font-weight: bold">Initlializing your project</h2>
+First input your credentials and bot options in there respective files
 <br></br>
+
+`<>` required `[]` optional
+
+botoptions.ts
+```
+export const prefix: String = '<prefix>' // this will be replace by the database later on
+export const prefix: String | String[] = '<array or string of owner(s)>'
+
+// any other hard coded bot options , etc you need will be put here
+```
+credentials.ts
+```
+export const token: String = '<token>'
+
+// any other api keys, etc you need will be put here
+```
+<br></br>
+
 
 <h1 align="center"style="font-weight: bold">Contributing</h1>
 

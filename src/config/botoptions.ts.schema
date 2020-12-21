@@ -1,0 +1,3 @@
+export const prefix: String = '<prefix here>'
+
+// any other hard coded bot options , etc you need will be put here
