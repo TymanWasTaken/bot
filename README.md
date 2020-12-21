@@ -24,4 +24,10 @@ you can find the full contributer guidelines and steps [here](https://github.com
 if you require further help please create an [issue](https://github.com/CyclopsBot/bot/issues) on the github we are glad to help you.
 
 <h1 align="center"style="font-weight: bold">Recources we use</h1>
-<h2>
+
+[discord.js](https://discord.js.org/#/) : We use discord.js for interactiing with the discord api
+
+[discord.js-akairo](https://discord-akairo.github.io/#/): we use discord.js akairo for handing commands and events from discord.js to make our lives easier
+
+You can also find other dependancies that are not listed [here](https://github.com/CyclopsBot/bot/blob/master/package.json)
+
