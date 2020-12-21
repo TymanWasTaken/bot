@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/hWWWE9m"></p>
+<p align="center"><img src="https://imgur.com/O5ckggD"></p>
 <h1 align="center">Cyclops: A general purpose discord bots to hopefully fufill all your needs</h1>
 <div align="center">
 
