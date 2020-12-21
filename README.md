@@ -1,1 +1,5 @@
-# bot
+<p align="center"><img src="https://imgur.com/hWWWE9m"></p>
+<h1 align="center">Cyclops: A general purpose discord bots to hopefully fufill all your needs</h1>
+<h1 align="center">[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)</h1>
+<h1 align="center">[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)</h1>
+<h1 align="center">[![Codacy Badge](https://app.codacy.com/project/badge/Grade/93dbe215b3dc462495511975bfc7fafb)](https://www.codacy.com/gh/CyclopsBot/bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CyclopsBot/bot&amp;utm_campaign=Badge_Grade)</h1>
