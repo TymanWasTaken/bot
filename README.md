@@ -13,17 +13,17 @@
 <h2>Initlializing your project</h1>
 coming soon
 <br></br>
-<h2>Preequestiostes</h1>
-this is spelled wrong and is coming soon
+<h2>Prerequisites</h1>
+this is not spelled wrong and is coming soon
 <br></br>
 
 <h1 align="center"style="font-weight: bold">Contributing</h1>
 
-you can find the full contributer guidelines and steps [here](https://github.com/CyclopsBot/bot/blob/master/CONTRIBUTING.md).
+You can find the full contributer guidelines and steps [here](https://github.com/CyclopsBot/bot/blob/master/CONTRIBUTING.md).
 <br> </br>
-if you require further help please create an [issue](https://github.com/CyclopsBot/bot/issues) on the github we are glad to help you.
+If you require further help please create an [issue](https://github.com/CyclopsBot/bot/issues) on the github we are glad to help you.
 
-<h1 align="center"style="font-weight: bold">Recources we use</h1>
+<h1 align="center"style="font-weight: bold">Resources we use</h1>
 
 [discord.js](https://discord.js.org/#/) : We use discord.js for interactiing with the discord api
 
