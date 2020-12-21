@@ -39,6 +39,8 @@ export const token: String = '<token>'
 ```
 <br></br>
 
+<h2 style="font-weight: bold">Commands</h2>
+
 | commands | usage | description |
 |----------|-------|-------------|
 | soon     | soon  | soon        |
