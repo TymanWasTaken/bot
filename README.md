@@ -27,7 +27,7 @@ If you require further help please create an [issue](https://github.com/CyclopsB
 
 [discord.js](https://discord.js.org/#/) : We use discord.js for interactiing with the discord api
 
-[discord.js-akairo](https://discord-akairo.github.io/#/): we use discord.js akairo for handing commands and events from discord.js to make our lives easier
+[discord.js-akairo](https://discord-akairo.github.io/#/): We use discord.js akairo for handing commands and events from discord.js to make our lives easier
 
 You can also find other dependancies that are not listed [here](https://github.com/CyclopsBot/bot/blob/master/package.json)
 
