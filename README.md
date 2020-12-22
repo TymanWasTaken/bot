@@ -15,7 +15,7 @@
 - [Yarn](https://classic.yarnpkg.com/en/)
 - [Node](https://nodejs.org/en/)
 - [MongDB](https://docs.mongodb.com/manual/administration/install-community/)
-- [Discord-Token](https://discord.com/developers/docs/intro)
+- [A discord bot token](https://discord.com/developers/applications)
 <br></br>
 
 <h2 style="font-weight: bold">Initlializing your project</h2>
@@ -43,7 +43,7 @@ export const token: String = '<token>'
 
 | commands | usage | description |
 |----------|-------|-------------|
-| soon     | soon  | soon        |
+| soon™    | soon™ | soon™     |
 
 
 <h1 align="center"style="font-weight: bold">Contributing</h1>
